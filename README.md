@@ -8,3 +8,4 @@ Here you will find various resources that will be useful in class.
 * [GitPad](https://github.com/github/gitpad)
 * [CC-SA License](https://raw.github.com/ringmaster/gdiscm/master/license.txt)
 * [How to for ssh-keys](https://help.github.com/articles/generating-ssh-keys)
+* [My Slides!](http://www.slideshare.net/ringmaster/source-control-management-14652174)
