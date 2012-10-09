@@ -33,6 +33,6 @@ Files can have (in general) four states:
 
 rebase - git command that allows you to combine a bunch of commits into one larger commit; powerful command: use with caution!
 
-http://git-scm.com/about - good resource
+http://git-scm.com/book - good resource
 
 ph.ly/gdi-scm - course evaluation
